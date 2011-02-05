@@ -3,6 +3,7 @@
 # - reap out bin/compile from code, we can package final result
 # - python deps
 # - actual (and secure) web aliases
+# - setup instructions: http://www.qwebirc.org/faq
 Summary:	Package that uses webapps configuration
 Name:		qwebirc
 Version:	0.1
